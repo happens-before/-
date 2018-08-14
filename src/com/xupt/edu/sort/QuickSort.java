@@ -6,6 +6,8 @@ package com.xupt.edu.sort;
  * @description:
  */
 
+import java.util.HashMap;
+
 /**
  * 快速排序
    快排最主要的思维就是寻找一个分界值，大的放在一边，小的放在一边，然后递归分别处理大的和小的，
